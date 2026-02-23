@@ -1,0 +1,51 @@
+CiteMigrate
+Copyright 2025-2026 Ingo
+
+This software was developed with the assistance of Claude (Anthropic).
+
+This product includes the following third-party components:
+
+────────────────────────────────────────────────────────
+
+PyQt6 - Python bindings for Qt 6
+Copyright (c) Riverbank Computing Limited
+License: GNU General Public License v3 (GPLv3)
+https://riverbankcomputing.com/software/pyqt/
+
+────────────────────────────────────────────────────────
+
+lxml - XML toolkit for Python
+Copyright (c) lxml project contributors
+License: BSD License
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice.
+2. Redistributions in binary form must reproduce the above copyright notice.
+3. Neither the name of the lxml project nor the names of its contributors
+   may be used to endorse or promote products without specific prior
+   written permission.
+
+────────────────────────────────────────────────────────
+
+pyzotero - Python wrapper for the Zotero API
+Copyright (c) Stephan Hügel
+License: MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files, to deal in the
+Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the above conditions.
+
+────────────────────────────────────────────────────────
+
+TRADEMARK NOTICE:
+
+"Citavi" is a trademark of Swiss Academic Software GmbH.
+"Zotero" is a registered trademark of the Corporation for Digital Scholarship.
+"Microsoft Word" is a trademark of Microsoft Corporation.
+
+This tool is not affiliated with, endorsed by, or produced by any of these
+organizations. Trademark names are used solely for descriptive purposes to
+identify compatibility.
